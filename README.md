@@ -1,3 +1,3 @@
 # My-profile
 this is my first repository<br>
-Author-Mehedi Hasan
+Author-Mehedi Hasan(RUET)
